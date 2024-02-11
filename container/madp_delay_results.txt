@@ -1,0 +1,480 @@
+Run[1][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+d6cf9cdd3bfe0f10d5233e16a5a261b6aee16dc55e23980fe6ef7c74f6a48a21
+-----------------------
+Total Time:  5.8394739627838135
+-----------------------
+ceng435client
+Run[2][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+dfe607aacdfc1c8876bc2a8381f2100dfa95e939a89fcb7c1d0b23e73eeb092c
+-----------------------
+Total Time:  5.904362678527832
+-----------------------
+ceng435client
+Run[3][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+2554b37342889465fcb5082c3fed433a5e5eadf8d5c8668f514e6e9985cbab6a
+-----------------------
+Total Time:  5.938756704330444
+-----------------------
+ceng435client
+Run[4][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+aafc4dd13df023bdfbd935a8f7dc6997945998dfc00612b734940ccd75f9353e
+-----------------------
+Total Time:  7.0228753089904785
+-----------------------
+ceng435client
+Run[5][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+9577177bc8b2e914684ef1b13e912fe1c7b719202222cd45dcf3320f4b281914
+-----------------------
+Total Time:  5.404821395874023
+-----------------------
+ceng435client
+Run[6][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+256dd28c220056403a28f398e4099d02af5cf13b7d723332154e0893bd48174c
+-----------------------
+Total Time:  5.229925632476807
+-----------------------
+ceng435client
+Run[7][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+8b0479d73d78e3276fa6889bb7af11ac60ede04157a1e1fda31783f7d0950593
+-----------------------
+Total Time:  5.21546745300293
+-----------------------
+ceng435client
+Run[8][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+10c6560cbffa154c4865de2fad2fdc4d349ce6e1cfda26e46bb46d9de5f77ab4
+-----------------------
+Total Time:  5.27644419670105
+-----------------------
+ceng435client
+Run[9][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+23d7116017b4fe181fe4917e48df68f20c1dc56df65404710373826b761381db
+-----------------------
+Total Time:  5.39212965965271
+-----------------------
+ceng435client
+Run[10][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+aa84a15dea0adfc967167547fa05e3b372973b73920d9a98ad3058e800ccbb58
+-----------------------
+Total Time:  5.8837502002716064
+-----------------------
+ceng435client
+Run[11][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+05a7feb20c3f503e45d763625e6c656b0c909a95692206e32ab00120cf094e57
+-----------------------
+Total Time:  5.135181903839111
+-----------------------
+ceng435client
+Run[12][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+2f69fcf4d21df3935308388609b800aa18e0cdca4c9723d7c91cb1c5e3a93142
+-----------------------
+Total Time:  6.088016510009766
+-----------------------
+ceng435client
+Run[13][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+34b03f747ecb43ec10d77ac03905b28448ed6a94c97a41c5ba3c5f73a6a1ab28
+-----------------------
+Total Time:  6.464321851730347
+-----------------------
+ceng435client
+Run[14][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+9b91aa87022a158cfb667b47f34dd4d1021d669697b789c704e67e31dfacb5b4
+-----------------------
+Total Time:  5.862447738647461
+-----------------------
+ceng435client
+Run[15][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+30adf52c8b5f4f2d9061f037fbe3f5853760dc30ad037780a2582c77d80ba653
+-----------------------
+Total Time:  5.880565404891968
+-----------------------
+ceng435client
+Run[16][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+2d3fcbf05d78d5c76a2b1c679459a2157f7b0576ee30503e131f871cb6396c48
+-----------------------
+Total Time:  5.344512701034546
+-----------------------
+ceng435client
+Run[17][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+33c516bc27c94417ec1b986e2e81f75f916999055826332f4c5d991d47a2af76
+-----------------------
+Total Time:  5.9098896980285645
+-----------------------
+ceng435client
+Run[18][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+eb6da174299cbffca8267f2a4f86cfb5b0facb6c90f98047e6ba52492baadc3b
+-----------------------
+Total Time:  5.3061463832855225
+-----------------------
+ceng435client
+Run[19][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+cad4009eea8661945806bc14c2588cb5cc1719d0c55c2ba443d672d2c567b0ec
+-----------------------
+Total Time:  5.844895124435425
+-----------------------
+ceng435client
+Run[20][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+5efa74568e1a63b66708273d4ebe2c400d32437142978301cb52e4f4751aa615
+-----------------------
+Total Time:  5.800500154495239
+-----------------------
+ceng435client
+Run[21][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+1d5214cac0d3c7c52292df4511d1a82ac040d45919641b8efda712d2cd5c6d95
+-----------------------
+Total Time:  5.351874828338623
+-----------------------
+ceng435client
+Run[22][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+c9ebdb472b0443c470bd18a6c5c71a5101b8371ecb1515b39fdc807bddb8242e
+-----------------------
+Total Time:  6.289728879928589
+-----------------------
+ceng435client
+Run[23][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+9a5f5138f3bf8143d9e44a1d0c432451fb16e71a9d1122014aea9b13e19bbe53
+-----------------------
+Total Time:  6.431822299957275
+-----------------------
+ceng435client
+Run[24][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+36080f082fc91df9f06df7459b47d82ae8c04202eb4b238e40a5b3685d9b7dc6
+-----------------------
+Total Time:  5.339134216308594
+-----------------------
+ceng435client
+Run[25][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+921a6aa01acf58a99c1e3b37a3f8565031e9d278ec9807f991fb81c9cf1f34ec
+-----------------------
+Total Time:  5.928197860717773
+-----------------------
+ceng435client
+Run[26][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+75abe9128c8052f60f1b08357677f920cf64563eef3e0be19ddf83561a6671e1
+-----------------------
+Total Time:  6.473673105239868
+-----------------------
+ceng435client
+Run[27][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+45d6fd051d77986263ade891be8fd6fdad7b4e65b2c8d9788621479daa84f51f
+-----------------------
+Total Time:  6.293691396713257
+-----------------------
+ceng435client
+Run[28][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+8effa6fe0291212b738ee51a757c7180b32dd5cb34deda3bf0156329ec5eec15
+-----------------------
+Total Time:  5.854773044586182
+-----------------------
+ceng435client
+Run[29][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+9bbbcfd2c9e89aef693cbfce4eb91b0edec0a81a8ca1eda91ca6ba3b692e3914
+-----------------------
+Total Time:  6.4557576179504395
+-----------------------
+ceng435client
+Run[30][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+4ed8be9416068bdaba042c7226b5f4beb9cc6a96c9222f8a6885c94ce7d958e8
+-----------------------
+Total Time:  5.409164905548096
+-----------------------
+ceng435client
+Run[1][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+04be72ad9586a4dd4a567ef346e943c940facd92e30c52625002528f9e1b23b0
+-----------------------
+Total Time:  5.0031819343566895
+-----------------------
+ceng435client
+Run[2][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+f37803956953ab51b1ab94187e75e59dfe45cdd5d9d49746345a1795e3aa873f
+-----------------------
+Total Time:  4.448370695114136
+-----------------------
+ceng435client
+Run[3][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+138ddc1c47ab019f87df43b911376740c45204bbd7652ee2edb6faa6a9f53986
+-----------------------
+Total Time:  4.495146989822388
+-----------------------
+ceng435client
+Run[4][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+663a5acf9883b6bc4a2bc932bdf71823edcb4f68b2173d156998b55fe542ddd0
+-----------------------
+Total Time:  4.422577857971191
+-----------------------
+ceng435client
+Run[5][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+52f9d349b0ce68aa602f26020761f39f7ae7b635a891ea47ff0fa970edf5d569
+-----------------------
+Total Time:  4.459619998931885
+-----------------------
+ceng435client
+Run[6][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+6ae8ec4acce458732559ad71821a2932ff1c7f29a2e45a67207a634bdfb8e93e
+-----------------------
+Total Time:  4.456757545471191
+-----------------------
+ceng435client
+Run[7][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+c132d8a500adec1412bb2cc467023f98f4f02e461f095f3f3b41daf37119f86a
+-----------------------
+Total Time:  4.46999716758728
+-----------------------
+ceng435client
+Run[8][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+0bd715a3e8b8a94e0958ec01a30f68b5cc12e227046bd49d58ef31d943daac1e
+-----------------------
+Total Time:  4.395073890686035
+-----------------------
+ceng435client
+Run[9][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+b65b4138ecec3f7436727eb6ac6bdc111cf9114604e921a7f8be94d1269de812
+-----------------------
+Total Time:  4.445364952087402
+-----------------------
+ceng435client
+Run[10][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+fb65e4d9c84e4310e469005b0a5bf570935f8878bde15b205d8b475a41cb9208
+-----------------------
+Total Time:  4.404610872268677
+-----------------------
+ceng435client
+Run[11][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+33f6678478b0765e2f3ce51e670e225f3d7bf361952080d4dafde95ef07e277d
+-----------------------
+Total Time:  4.43140435218811
+-----------------------
+ceng435client
+Run[12][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+c653d2141229635f351123ca09bdd3235173ceac4bd8cb98a0a5742c03b5dbb4
+-----------------------
+Total Time:  4.422737121582031
+-----------------------
+ceng435client
+Run[13][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+d43f1e26f04fc5e734e2ccd52dbc0c55974e9ab60597a0c1d58a38bc55b1b7b4
+-----------------------
+Total Time:  4.424724340438843
+-----------------------
+ceng435client
+Run[14][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+9a9f38abae42c8d29f128e9be1e0fe1ccdbb95ca3128d431ae69fadb5c69c91a
+-----------------------
+Total Time:  4.437244176864624
+-----------------------
+ceng435client
+Run[15][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+580d8969b831682d2aa7b2c071899547ad525aaddbb53936466adb7c1561a877
+-----------------------
+Total Time:  4.451140403747559
+-----------------------
+ceng435client
+Run[16][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+52a2e99a7014ee42bcaf3c914c43b40355dc3e7948054582ec268b853dc6f4dc
+-----------------------
+Total Time:  4.433667421340942
+-----------------------
+ceng435client
+Run[17][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+c923740262847ce3e76f8ba5b34febf22d0225b22ec6af3d461aa640e7816935
+-----------------------
+Total Time:  4.432971954345703
+-----------------------
+ceng435client
+Run[18][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+d5280c3826d4a00b0c9f708edb0cd09c5d7b8f83cf8c217e78e17a554329a9bc
+-----------------------
+Total Time:  4.411516189575195
+-----------------------
+ceng435client
+Run[19][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+501d684b6323297eca6fa92ec10c4f1b5945b4e5cd4d1a22ed60351a05dcf7b3
+-----------------------
+Total Time:  4.402377605438232
+-----------------------
+ceng435client
+Run[20][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+e641e16992f3ba8385a883ef3fcc3e00868cee6236cadfcd1effc3c37be693b4
+-----------------------
+Total Time:  4.434199094772339
+-----------------------
+ceng435client
+Run[21][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+c0d91a3f7d8cdf12a6e372bbce5959edf0fac590c6997b94043a329bee900a18
+-----------------------
+Total Time:  4.402905702590942
+-----------------------
+ceng435client
+Run[22][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+7cfa23ad301a8142e66e3c77da38502d4ec60a8f59366648c220fd3dc2c8f157
+-----------------------
+Total Time:  4.418500900268555
+-----------------------
+ceng435client
+Run[23][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+a3f32fc09af9e65bd1add44deec03406684255dfa10193699a2bead7b0fe7120
+-----------------------
+Total Time:  4.442131757736206
+-----------------------
+ceng435client
+Run[24][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+e0a2e393c1ba4653d68e2401bdafed051f0a485baac14989a79a353e4d616dda
+-----------------------
+Total Time:  4.435741662979126
+-----------------------
+ceng435client
+Run[25][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+c3e811e5e340654ebbece2b52750f1ec10ae1de1c0132f58fc7a1e29825741f3
+-----------------------
+Total Time:  4.424323797225952
+-----------------------
+ceng435client
+Run[26][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+7ac1ebdf178fc337fed086d82b8861d2d5cff90993ec7204100d6235ded18d6c
+-----------------------
+Total Time:  4.937160015106201
+-----------------------
+ceng435client
+Run[27][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+855278f6b336ea867403f82988f6a62756af826b10d42c6d8f495a7d4f02b831
+-----------------------
+Total Time:  4.427750587463379
+-----------------------
+ceng435client
+Run[28][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+afb6b657e2334ac56278547f258c6a4e7c8a27e185726788c134fbe32a0eea96
+-----------------------
+Total Time:  4.881272077560425
+-----------------------
+ceng435client
+Run[29][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+d930cb4ee59bfbc165cce5b4239ae3def8f01ca43fa316e130f5e53e292c923d
+-----------------------
+Total Time:  4.4272141456604
+-----------------------
+ceng435client
+Run[30][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+ecc7ec28e220e73aee2d7f83a9b6039222204341397d40fa14406117585fa4d2
+-----------------------
+Total Time:  4.42446231842041
+-----------------------
+ceng435client

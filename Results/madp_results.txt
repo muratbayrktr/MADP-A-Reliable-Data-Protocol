@@ -1,0 +1,2791 @@
+Run[1][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+62e2f6aa707c3cdb6033810feecd226bdbff2b588529cdf334f91cc22c7a71ca
+-----------------------
+Total Time:  0.654726505279541
+-----------------------
+Run[2][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+61c342b33e5c2fe620b17921328584544a6319105c28f0b88cfe35017325b449
+-----------------------
+Total Time:  0.6039462089538574
+-----------------------
+Run[3][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+073bd1a7ecf7ca536947c6b539363c1cd6a9b99eaf3d0979ac1b9699b993d0ba
+-----------------------
+Total Time:  0.6472713947296143
+-----------------------
+Run[4][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+9d6df7f6c2b5280422f36e1e48ef40ff1d260ff1e20d164c491dbf7990254409
+-----------------------
+Total Time:  0.5777955055236816
+-----------------------
+Run[5][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+efe7b89eb2c704fa0bdea7461d45f12d70a2c58f1b42c2179387e67ef60b8326
+-----------------------
+Total Time:  0.5017611980438232
+-----------------------
+Run[6][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+5f98d3b8797a1d4cc88b39965f3ba28e7adf9372d4ada11fb45488d2494aefcf
+-----------------------
+Total Time:  0.5006327629089355
+-----------------------
+Run[7][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+4e29de8a08e6405fe887b329cb57a64547e33f1254e05183562d92e3bfdd69b0
+-----------------------
+Total Time:  0.5591440200805664
+-----------------------
+Run[8][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+f2a730656bfefb178f60f386915e992d2e4b63c5d16452268a664c21375850d3
+-----------------------
+Total Time:  0.48216891288757324
+-----------------------
+Run[9][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+4af62f4f10318ca53bd34d7538a410c2f1d75d551844d4ebe22c4cc7a8e2b9aa
+-----------------------
+Total Time:  0.5437939167022705
+-----------------------
+Run[10][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+9863c7a9c1d036f1947e312d15f61e2498a2e8591897b4f64653c3f95ba1e453
+-----------------------
+Total Time:  0.4228520393371582
+-----------------------
+Run[11][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+e824736449ce30d1518da6d00cd2ae780140679fc50dff918c735afb66fb5a8f
+-----------------------
+Total Time:  1.4253084659576416
+-----------------------
+Run[12][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+9af9bbda8fafeb264ad0e075df692836b9c6423f4187212ad84f0643be326bd8
+-----------------------
+Total Time:  0.6169848442077637
+-----------------------
+Run[13][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+55ea2deadf680ff582d270d056a61a698ef6c1fe7cbcbc26fc606514755fee76
+-----------------------
+Total Time:  1.3713006973266602
+-----------------------
+Run[14][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+8ee1d72aba4967c7eb0526ed8307ce7118ea9e9c373c64e2763f0c1e3f1fecc6
+-----------------------
+Total Time:  0.40114450454711914
+-----------------------
+Run[15][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+9527dcd78535824da434c8f4d48bba31b948ff61e163c98822036734c3baefcc
+-----------------------
+Total Time:  0.6618170738220215
+-----------------------
+Run[16][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+9f4d984e61df9009b59aaf1624e6334a4b9b9f5d4b4b2701392c6bc21a8a1f38
+-----------------------
+Total Time:  0.6685256958007812
+-----------------------
+Run[17][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+63008361e5aa2464fac0fd408eb744632a526efc58d1588ea120156416d1ff31
+-----------------------
+Total Time:  0.5503277778625488
+-----------------------
+Run[18][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+13b45dc356adc57aabfe5bed6e064919a3cfea74a48714e21db090b96eddcae4
+-----------------------
+Total Time:  0.41794443130493164
+-----------------------
+Run[19][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+b68895f54b9c29e1041c8d6bdcbf7e94de40296f2f9ad174ccfc58799411e60b
+-----------------------
+Total Time:  0.5724692344665527
+-----------------------
+Run[20][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+73a59e46c4cde8b7631a86eccb090a035777a835ece3d12dd6a59915e4fa23c0
+-----------------------
+Total Time:  0.6297063827514648
+-----------------------
+Run[21][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+66cb2837d93f46226559cf950815ce36512d186bd8ca464d8c209961196a786b
+-----------------------
+Total Time:  0.5651371479034424
+-----------------------
+Run[22][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+615beb8fba32f4ca5ca27725494b3802483839e2641c0ba4788205ff33532be8
+-----------------------
+Total Time:  0.6291520595550537
+-----------------------
+Run[23][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+1052be8b19c2463a6b720745ebefc20f2d437f7bba1e2188314c6ac815de5717
+-----------------------
+Total Time:  0.600351095199585
+-----------------------
+Run[24][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+c2f50c6621a6dec0e4c52c8223e92b89dda385c671a2fa4b989112de572bf96c
+-----------------------
+Total Time:  0.5428609848022461
+-----------------------
+Run[25][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+9e7d91e5d1a3277ef007e2e3749e031839bbad3660f2ee7fc568d8fdacbba092
+-----------------------
+Total Time:  0.6579022407531738
+-----------------------
+Run[26][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+1e22957aecf429a22b7c60f2ee1fc0144b9288f7c32d8ccf26306e435f866ba8
+-----------------------
+Total Time:  0.4815218448638916
+-----------------------
+Run[27][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+5f84d874639874244bcc828dbb5c9c5dc0ef05372b42a907a32a7ba565df2d1e
+-----------------------
+Total Time:  0.5114891529083252
+-----------------------
+Run[28][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+a973eb7d8654947ddd9e279b2a54f8383b5777e5f199b75ac92ad92019283c39
+-----------------------
+Total Time:  0.5222690105438232
+-----------------------
+Run[29][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+a567a6eba3020ab48f0c2b3724dc3c02a02a24c6cd01dd0609e4115a782bdde2
+-----------------------
+Total Time:  0.7473065853118896
+-----------------------
+Run[30][benchmark][0%]:
+benchmark_0_client.sh
+benchmark_0_server.sh
+760168fc697cb530436f888b34963cd68269ac2b8cb44072221d193a51cdcdba
+-----------------------
+Total Time:  0.4928724765777588
+-----------------------
+ceng435client
+Run[1][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+f1c95da6f0e983e3d11c98ee551e8cb2428dffcddbffed0c1ef51d3c314a913f
+-----------------------
+Total Time:  0.630640983581543
+-----------------------
+Run[2][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+8b3c3b0223919b5a747c4f14dd5d59a7963ee311a62015a876209a53a9c03ea6
+-----------------------
+Total Time:  0.4972410202026367
+-----------------------
+Run[3][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+1fb11d8f17fed1457b81dcaa0b41b289fad4ecfaf9cbdfab5ec7c87552059750
+-----------------------
+Total Time:  0.5793819427490234
+-----------------------
+Run[4][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+bf7e731f58da1d2cdc1cdc18e1ff6a5b2c327ee068c712d2c241c8085a2aaf81
+-----------------------
+Total Time:  1.3053669929504395
+-----------------------
+Run[5][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+b1c6af4dc1b33a5e868d038050042fcfbc8db1ac2ab7bd70f14bf272696ea99b
+-----------------------
+Total Time:  0.6597340106964111
+-----------------------
+Run[6][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+f1148c53c554341ce61d81b575617ad084bc11bcd0d1c77f8137289b7a6c2bc9
+-----------------------
+Total Time:  0.7994861602783203
+-----------------------
+Run[7][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+e7ae32d70f81d1ce1e47a7215e183b88b6200d5765259cdb25baef91baed8c3e
+-----------------------
+Total Time:  0.550114631652832
+-----------------------
+Run[8][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+200d9c0e8843492c7747626f662e37a28c2015386008f898992fddd215a53c93
+-----------------------
+Total Time:  0.7051806449890137
+-----------------------
+Run[9][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+b539450c13d08eeba06635073ad168f41a600c734a572a1f7bc3b303632eb56c
+-----------------------
+Total Time:  0.5760393142700195
+-----------------------
+Run[10][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+5c73d41ccaebd6749bc01c9434cd8e90f5b0e62b7825f144b2ef28ee78f0c7e5
+-----------------------
+Total Time:  0.6221585273742676
+-----------------------
+Run[11][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+f3e198e7ad81bc3342ac43ac41220eff106b64c40a20502282021d6ba7914a02
+-----------------------
+Total Time:  0.5220427513122559
+-----------------------
+Run[12][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+3a1a1bc110c9fc96d7aa8ef9a1fefd2969ce01b6779877730e81cd20ae79418d
+-----------------------
+Total Time:  0.7226433753967285
+-----------------------
+Run[13][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+65daf52ac86b54fd2d7d74a88c49c7cc3b9a87db0ec92b2ffc4cf2b207f0b968
+-----------------------
+Total Time:  0.7817926406860352
+-----------------------
+Run[14][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+1a6215ec6d519f4d2733c361ab47d37aa6c74cd37ab29186150cb661e3dcc571
+-----------------------
+Total Time:  0.482297420501709
+-----------------------
+Run[15][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+f7d18e5c27d80048048413972f9123b9d70e312b1b3314f485c9ccb3452ef8b4
+-----------------------
+Total Time:  1.5897190570831299
+-----------------------
+Run[16][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+92dd5e052a221f0d11df22f5e69947d9e955cc7904a2d45862095a37387d8bee
+-----------------------
+Total Time:  0.5679776668548584
+-----------------------
+Run[17][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+72c521fb01bd6d135be835e8692a4832374eceeff4717434fa3be45751aa995c
+-----------------------
+Total Time:  0.6685552597045898
+-----------------------
+Run[18][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+bac86e7ccb8c85967efb448339e3d3949f9553e076d5c08774a6df7a19525503
+-----------------------
+Total Time:  0.7483677864074707
+-----------------------
+Run[19][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+6de9fe019840dce11e2cf16e3d466e0c1192a2c54795e1a252c595aea07b8056
+-----------------------
+Total Time:  0.6486003398895264
+-----------------------
+Run[20][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+75b594a5918df376564f1d2e03c712fdf4aaf08ba7772194e1ca2cec48166398
+-----------------------
+Total Time:  0.5187084674835205
+-----------------------
+Run[21][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+79752ab63deb822c773abce66cace981945481414f9e55887f0aa5e4a53f8b0c
+-----------------------
+Total Time:  0.7380955219268799
+-----------------------
+Run[22][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+a32bb6f18de24ea9cb5d9659cdbf1a6bd5e913874cd8f19b1cba176842ca7ca3
+-----------------------
+Total Time:  0.6054708957672119
+-----------------------
+Run[23][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+f936c8e9ec1574e5a767fb585afc138eec875794387e3506da275c2f0fef895c
+-----------------------
+Total Time:  1.3051049709320068
+-----------------------
+Run[24][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+0168bd5d5657d2db5bfa09ccbcc01e8a73c8f226a28de5f7c465104b566291b5
+-----------------------
+Total Time:  0.5983583927154541
+-----------------------
+Run[25][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+308f80f1f183057b690eeb65a3b30ce1228bac43c482eb8d9462b628052487f7
+-----------------------
+Total Time:  0.7750520706176758
+-----------------------
+Run[26][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+0397769df1de2084d8f5a7f21ab9231a77a0d91b9dd0e00ab33ebfb05c217afb
+-----------------------
+Total Time:  0.592648983001709
+-----------------------
+Run[27][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+e5f9d5e801ae57c399cc813fe6d5508e77884523eb9fda46a7dba8e4daeeb9b0
+-----------------------
+Total Time:  0.6959130764007568
+-----------------------
+Run[28][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+4fe757a0ac4f4c97285676e5f9a083b3f7334bd4b746c4086cbf56d2bc9a88df
+-----------------------
+Total Time:  0.5668127536773682
+-----------------------
+Run[29][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+ca5bae46cdc125c5900e1cfb88925253d41b867b7474ac9f205033ad21e7618f
+-----------------------
+Total Time:  0.7535769939422607
+-----------------------
+Run[30][corrupt][0%]:
+corrupt_0_client.sh
+corrupt_0_server.sh
+daa3badbb53487c452697b3c7cf1f4425128eeb642b471e85f5f0276f482484c
+-----------------------
+Total Time:  0.6364972591400146
+-----------------------
+Run[1][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+448d9310ff9c5b4e0d0dc61a84ff97ed608e8570ac6f978fe5c42d89241314e5
+-----------------------
+Total Time:  2.385883331298828
+-----------------------
+Run[2][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+3762a5467a3fb685f4a7b0cf6410ef6f536c8267013572e0d06fb08c10c17379
+-----------------------
+Total Time:  2.4240474700927734
+-----------------------
+Run[3][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+edaa0f69dfc39873b143957ebf0433d3aa6c67d0ff4c8ec9c3be2b2453ef9647
+-----------------------
+Total Time:  0.8413536548614502
+-----------------------
+Run[4][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+4dbbaffb365566c16fc647d9fb532e855a5b87f748dbe88f81d99e0ba13cd6db
+-----------------------
+Total Time:  0.8506975173950195
+-----------------------
+Run[5][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+2de3352175824cb79a7e49a6fd5ced5bc0f8bf2634bf4919ec283215bf99477b
+-----------------------
+Total Time:  0.902219295501709
+-----------------------
+Run[6][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+d31493101611f05f672986fbe009f2035108e4c1f7da9f63237902798df95dd7
+-----------------------
+Total Time:  0.8874437808990479
+-----------------------
+Run[7][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+07fdd667078f2f36edf6415c88bf679c08d05ff1ecb76f6af8ed674990250e08
+-----------------------
+Total Time:  0.8952968120574951
+-----------------------
+Run[8][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+f1c737d96e2836f99f748e016f0a5d17c9cb0de0f711bc31fbb3f87232296956
+-----------------------
+Total Time:  1.7254295349121094
+-----------------------
+Run[9][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+9e77a3a7498d8906564a80bc459cf85748707d3d0a3e7893fc46c3554059e1e3
+-----------------------
+Total Time:  0.8487420082092285
+-----------------------
+Run[10][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+0a087a77b015ed9c73e909f8fbcfd35ce040e68ef1c5a7af4cfff20f303c03a2
+-----------------------
+Total Time:  0.8733735084533691
+-----------------------
+Run[11][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+1e6876c0b42d5655371f31b7f179f5beab59ffdd9ad02347bb62034910495723
+-----------------------
+Total Time:  1.068655252456665
+-----------------------
+Run[12][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+3078321498acd3124d7b9b2fef0c86068503211c464c1125c4f571f13e235a24
+-----------------------
+Total Time:  1.7631618976593018
+-----------------------
+Run[13][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+765c36ced6c48fa93b3d682a9b5f4ad5be1a71fd5a3122b13eb35061d8f19756
+-----------------------
+Total Time:  1.7263116836547852
+-----------------------
+Run[14][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+f3126856d6ae6e90ec428d69376f71a09446934d9589916e009f2b9df873daa3
+-----------------------
+Total Time:  0.7121694087982178
+-----------------------
+Run[15][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+625c56af04a1af10bb3448dfae0d3243a8182069043a1bbd5b334da354fe7012
+-----------------------
+Total Time:  0.8477964401245117
+-----------------------
+Run[16][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+554d8c618e38bbd4345614128f276b12b25ac3aad9dc4c5d67d12ed38ce2e142
+-----------------------
+Total Time:  0.9070940017700195
+-----------------------
+Run[17][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+3c1014355a166839000b9557e7f928b4f92e6e98310c82c55ac0e5fe4151e6ed
+-----------------------
+Total Time:  1.0657997131347656
+-----------------------
+Run[18][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+1632c13b9a662fc17ebb58495048e2a03894b3dffe17db46b3bd83a45438e9e2
+-----------------------
+Total Time:  0.863828182220459
+-----------------------
+Run[19][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+1ebe19144b34717ca7bf8bcb98b6fd8f7c7407e41ebc4ade5caa5e1497b01db9
+-----------------------
+Total Time:  0.9718608856201172
+-----------------------
+Run[20][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+85563d231303bde8a009db0f861d6220c64e415ebb4b9a477b5800fab035e933
+-----------------------
+Total Time:  0.9307386875152588
+-----------------------
+Run[21][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+6c274b09bfdb6c918be602db284dc929877086a8f3719bae47b8dd6ca9db71b3
+-----------------------
+Total Time:  6.1509528160095215
+-----------------------
+Run[22][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+ad8e2812147c4109b470aa60b82cf750ce676166d7a052c37e62537106105126
+-----------------------
+Total Time:  1.072770357131958
+-----------------------
+Run[23][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+fcca60acc618885b67b31b2283b44b682f80890dd672f155db940ae8209704ec
+-----------------------
+Total Time:  0.9979627132415771
+-----------------------
+Run[24][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+00b5135d2da0c971094b98553ddcfad85d33ea5d19480e8c9560d938e11b2c44
+-----------------------
+Total Time:  0.7329680919647217
+-----------------------
+Run[25][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+a3299a4412508de96fc24d488f38590a3b8cb7a66b8d7f0fb704768c2eb55e59
+-----------------------
+Total Time:  1.056584119796753
+-----------------------
+Run[26][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+2d0e1c44bc6f1310ff44c444804ffec803d6f91859f813d6d922cef74fec397c
+-----------------------
+Total Time:  0.962526798248291
+-----------------------
+Run[27][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+a2c912109b5ec8d0d3469b2e0c5daf7c4f57f3136e2f09c0dd64d4eaa38a20b7
+-----------------------
+Total Time:  0.9801905155181885
+-----------------------
+Run[28][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+06d94a4ab8060b8e4be28a557efd06f9277c857bcb5922b299a5af407e64fde5
+-----------------------
+Total Time:  2.02352237701416
+-----------------------
+Run[29][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+4f72c025cbb525520f540160a402481190287c49f3b69b7357a4c0fab9f54ccf
+-----------------------
+Total Time:  0.8974406719207764
+-----------------------
+Run[30][corrupt][10%]:
+corrupt_10_client.sh
+corrupt_10_server.sh
+5482b321968c9d9667d1a3c68105eeea55359972a2b1978b675456af041acef3
+-----------------------
+Total Time:  0.9455950260162354
+-----------------------
+Run[1][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+630e871066b29664c4866ddcf82dbeb3641e18167931b2d6d578d13945a31de8
+-----------------------
+Total Time:  0.7080099582672119
+-----------------------
+Run[2][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+bf6dc9e38180c66f43e0b28fa2a8ad0b01cfcb0774928d8a38866b09799765ad
+-----------------------
+Total Time:  0.8217685222625732
+-----------------------
+Run[3][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+7350575423ce86dfbbd1fe61e4301db5120f9b676eb5da91654c855a4304eb06
+-----------------------
+Total Time:  1.5490376949310303
+-----------------------
+Run[4][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+b7f4856158e86c76636939afa1deeff5aa819d4015e3158704bd94a92be93b40
+-----------------------
+Total Time:  0.9178214073181152
+-----------------------
+Run[5][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+e3f7adfa4798cc9093b7d93d7246826f54a6c8357800499bbab804de548b9061
+-----------------------
+Total Time:  0.8471438884735107
+-----------------------
+Run[6][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+528bbc78759f1d970e810c4e11a4d8a496324505bb80b11fac7f65c9ab31e543
+-----------------------
+Total Time:  1.526869535446167
+-----------------------
+Run[7][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+8ba07c7cdf6a2f6167912ba2eea4e436d72d4b4587323f63b12126a0e23db6bd
+-----------------------
+Total Time:  0.9192779064178467
+-----------------------
+Run[8][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+1aa85cd8c7da62f86c368767a3f4cbcff2d3cf7e2e70b9ea189738980f94f0fa
+-----------------------
+Total Time:  0.9071016311645508
+-----------------------
+Run[9][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+60785397a6b224c313d749093423b6e99f8f5255ae7ed10028c02a49e5e8eff2
+-----------------------
+Total Time:  1.0776474475860596
+-----------------------
+Run[10][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+36e9d0f319149b058fc7ff9fde6d940c0c422ad1971fdb63dabf7a7d594d706a
+-----------------------
+Total Time:  1.0551879405975342
+-----------------------
+Run[11][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+f3ec433e5b53ddd82ef6ed943de8178c2de0e5af383b725f6c3e2a8bf9c656f0
+-----------------------
+Total Time:  0.8812375068664551
+-----------------------
+Run[12][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+08fe62c6fd5488f8494e7c1f4baa12489c356d45fd3d9b03010f970422ae9c52
+-----------------------
+Total Time:  1.103553056716919
+-----------------------
+Run[13][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+fdf395a0666aaed9e046e4507c61255357b814b5f8ed42c039430bada9c73e9f
+-----------------------
+Total Time:  1.6797070503234863
+-----------------------
+Run[14][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+8c8b2eb53799cbf32c76fc54545b3ceca9ac35172c83391ddd6ec7912181c20a
+-----------------------
+Total Time:  0.8858160972595215
+-----------------------
+Run[15][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+b62be8b935eeecc09c5cd7e50f388c87293acff3d935c44b9bbc052750ed1031
+-----------------------
+Total Time:  0.7641434669494629
+-----------------------
+Run[16][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+ef624a20dfb3843a81ed852b1715d5dcf6c91f55adcba0469422024eccc1074e
+-----------------------
+Total Time:  0.8396687507629395
+-----------------------
+Run[17][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+8870e245d6dd50d418e009cefa5c60e6cc6986399c66dac0a5228badeb3dda15
+-----------------------
+Total Time:  0.8769958019256592
+-----------------------
+Run[18][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+07137d76150bd2cacbaa3f952b07620079ebf06053cf7aac1fd6f7ef680ebc13
+-----------------------
+Total Time:  0.845038890838623
+-----------------------
+Run[19][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+33a134f2eb84a3853fc8d604c50e00d8a4a045600acd655c2227e84b3a4ca78e
+-----------------------
+Total Time:  0.8664579391479492
+-----------------------
+Run[20][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+895caa7af762b274bfb8d31c0b923088e9478be9ef1b3307ac6fe8e47be52434
+-----------------------
+Total Time:  0.889171838760376
+-----------------------
+Run[21][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+b540e80c1a461415e5b6871b8f2a316a2fb385c5d6280466cd911cef4b08656a
+-----------------------
+Total Time:  0.8369607925415039
+-----------------------
+Run[22][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+a6435d885d881f5dd4ae1b7fd600a42b36166fd61795bd8ce38e86a52a5cac49
+-----------------------
+Total Time:  0.8667740821838379
+-----------------------
+Run[23][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+e57bd80b307b9d4c29f820cc40926660f4dfc2e3c483e32214d6029156f5d168
+-----------------------
+Total Time:  2.925088405609131
+-----------------------
+Run[24][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+0300d6e1b328c01c2f17445aa8fb83b6878348dd4127bf01bb34ad59644d65c2
+-----------------------
+Total Time:  0.900946855545044
+-----------------------
+Run[25][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+f685c7ced6bcd50fe2e8605523daacd788c94a1ba0d462286e1fd0671a9f511e
+-----------------------
+Total Time:  0.8311691284179688
+-----------------------
+Run[26][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+b116d9e20601ff5a9acf52cd80bf8ab28d0a669ebcb5bbcf799d5561e8e103bf
+-----------------------
+Total Time:  1.0111424922943115
+-----------------------
+Run[27][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+38932781dda568d626fd15a2fb15b81b0828acc0d4883483eca63b0af541c202
+-----------------------
+Total Time:  0.740062952041626
+-----------------------
+Run[28][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+04cb71bab5f6d68fd3fafa8403d5fcd2f9000e29aaf180b54b37cccf8a4a668e
+-----------------------
+Total Time:  0.8459808826446533
+-----------------------
+Run[29][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+6fe06c2bc1c40699925c2b525e91df2d89b4831051f670dba1933b5e95aaef0f
+-----------------------
+Total Time:  0.9224793910980225
+-----------------------
+Run[30][corrupt][5%]:
+corrupt_5_client.sh
+corrupt_5_server.sh
+7ddc79f060b26f832220bccd9500f239fad945e4cb4274bb1006719133088327
+-----------------------
+Total Time:  0.7984809875488281
+-----------------------
+Run[1][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+7591ce39ab8f420e5d9e6996be3767cd827fc29441028893c9eab45bc0a2efd9
+-----------------------
+Total Time:  0.6893219947814941
+-----------------------
+Run[2][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+1c54400d2667799658078405d75fa76359ebaf97f894c41bb0d9332e52d70175
+-----------------------
+Total Time:  0.5038285255432129
+-----------------------
+Run[3][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+4730244d583ba7be58939a0929f90bd21b96c538565c7c88c011fdc0c15d1d12
+-----------------------
+Total Time:  0.5797996520996094
+-----------------------
+Run[4][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+7013f64f88d4187e1dc51f2af9f90d1597f0809bb83cf31f9984e17bf13f5606
+-----------------------
+Total Time:  0.6970555782318115
+-----------------------
+Run[5][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+1066b84211f9d7572c85e7b8487346bf5da9d6ad7fcec03a7c8f6e785a9f75c8
+-----------------------
+Total Time:  1.098921537399292
+-----------------------
+Run[6][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+9ed78b0ecfd3cec59abe3c3c69df4d2fa0cbfc38098bdd805564fe689d12af68
+-----------------------
+Total Time:  0.6731715202331543
+-----------------------
+Run[7][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+23b516fdbee096b1008509a27c3a18cc8f6e9d73df5af816dbd6b65bcd1660fb
+-----------------------
+Total Time:  0.6716310977935791
+-----------------------
+Run[8][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+1cbe050b35755c13b577e17dba5b8626234b0b281fc6b1f26c4d15eebdcfd852
+-----------------------
+Total Time:  0.5289504528045654
+-----------------------
+Run[9][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+0ab2c0549927761916b2f2cc5efb1a6546194847432e25fa0957e7f2fe7241d5
+-----------------------
+Total Time:  0.5120220184326172
+-----------------------
+Run[10][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+61d556fca90479f1ed4a7a1f100f8ad96aa867f77fb5e779af14349ddf7c1bed
+-----------------------
+Total Time:  0.7252142429351807
+-----------------------
+Run[11][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+4e909e1541d299ee7af43a795bfee10eba02708864437815202ec90ae7a93d2d
+-----------------------
+Total Time:  0.6663496494293213
+-----------------------
+Run[12][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+2010fd2a450b01d80e5baf067a034db9f38c1f8363a94b6801e85ce1449646fd
+-----------------------
+Total Time:  0.6067404747009277
+-----------------------
+Run[13][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+6707d2482decf55a9d28b5090203c7044538fc2b89ea746a996fe773a27272c6
+-----------------------
+Total Time:  0.47806572914123535
+-----------------------
+Run[14][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+87f538d1088f79afe55ca078d9120c092d2fd32cfa5b0ff244373d842eb7f9ad
+-----------------------
+Total Time:  0.6456797122955322
+-----------------------
+Run[15][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+3fddd498caeac32142b2cfb9b4c84f7db2056c80b0e755ff262d6de54e011b43
+-----------------------
+Total Time:  0.6193928718566895
+-----------------------
+Run[16][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+b2ee0dc57188b8abb9eb1e15a56f8f110eb5af2f8d4a935187feb9da7aaac068
+-----------------------
+Total Time:  0.5169367790222168
+-----------------------
+Run[17][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+b3dfcfffadaa751961c252a838a2e033c9cbb0468e0ca233cca5d5720fc58252
+-----------------------
+Total Time:  0.7405598163604736
+-----------------------
+Run[18][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+fd7947c1ab7f1e98964261f700c99871f764db424f4c62117be60d9b6278f23f
+-----------------------
+Total Time:  0.7124226093292236
+-----------------------
+Run[19][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+3f29854e7235db1a9b5f887704bd699f5f86260acbbfa1eb3b736c016a06eee2
+-----------------------
+Total Time:  0.5032854080200195
+-----------------------
+Run[20][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+f2ac96de156cecd670a6a75ae78f00c4e8f08ae5d02dafd3f5362624b7020164
+-----------------------
+Total Time:  0.5052881240844727
+-----------------------
+Run[21][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+c8965278a4ca6d4107acd0f84ad94a2d0b18e4326789196e887c3f01362e87c0
+-----------------------
+Total Time:  1.4186115264892578
+-----------------------
+Run[22][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+f6ac5b5e43ea1690a028040748aa848cafbe059ca6b153e239afeb0d8f20a531
+-----------------------
+Total Time:  0.6781697273254395
+-----------------------
+Run[23][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+50a872218891118a442b6c1ad7cb482ddc92c89d6eb2d09254c2186806b97774
+-----------------------
+Total Time:  0.5055451393127441
+-----------------------
+Run[24][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+0fa08d68a5408cc3792cdbbdb0eb5a08238dde45b90d353a08b0bba4cc0807dd
+-----------------------
+Total Time:  0.6082854270935059
+-----------------------
+Run[25][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+025dec86651571d66c3674607af68445054d742bd3e314a272d50d4cbe2dafaa
+-----------------------
+Total Time:  0.653069257736206
+-----------------------
+Run[26][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+c9accbffb2bd6cc2d18969f9fb3e27b325ec3c3fb4e6cdcaf819ce6928c0177a
+-----------------------
+Total Time:  0.566380500793457
+-----------------------
+Run[27][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+48411de4275cbf6143bb9650675ea850547deaf4176c3c9516810bcc2e1d95ce
+-----------------------
+Total Time:  0.5938560962677002
+-----------------------
+Run[28][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+6188363007aded6d3fbde8a959e5795d1bc5cac09ef79835ef862836d77a496e
+-----------------------
+Total Time:  0.6455998420715332
+-----------------------
+Run[29][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+4d2d7bdc29cb3a86dd9254dee04ef197e25a2d18b999d325ab30fca1b069da57
+-----------------------
+Total Time:  0.6862854957580566
+-----------------------
+Run[30][duplicate][0%]:
+duplicate_0_client.sh
+duplicate_0_server.sh
+7cdf7dc342de3730079de1e266f05add21b6317c18c6b71fcdb28976e11219e8
+-----------------------
+Total Time:  0.4986276626586914
+-----------------------
+Run[1][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+aea3a2e6f16fbd35ad76cbe773bcd8b492ea364d5cf80c8b6e1a8eb32d002c67
+-----------------------
+Total Time:  0.7363059520721436
+-----------------------
+Run[2][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+39f3f7e517a4e08e6126fd3b6029cd841d2f7aee3cfe11c574d243340a9fa011
+-----------------------
+Total Time:  0.6683986186981201
+-----------------------
+Run[3][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+ec2e952352c2d8f7946e6ee21da608433eac15d89d3f37ef20ebd94c5fd2c0d1
+-----------------------
+Total Time:  1.0089809894561768
+-----------------------
+Run[4][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+9021bd72fcae105d79b19055400fd8b14ccdffc98f40e2fb9f27444ea53fcd71
+-----------------------
+Total Time:  0.8013870716094971
+-----------------------
+Run[5][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+afa91c0a4f07c92b13d4a3ff011d1d4066ea5fd580f755206f10d4559c4ae5b0
+-----------------------
+Total Time:  0.7712264060974121
+-----------------------
+Run[6][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+85727a334c66d9a791a185f79fd20c4ad7631510cca7d083f05f766f7939aefd
+-----------------------
+Total Time:  0.7759795188903809
+-----------------------
+Run[7][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+35a4f946c298bb16fb7c4fb61a331b36a033abf25c2b7fd9a509760a186c2d54
+-----------------------
+Total Time:  1.1276013851165771
+-----------------------
+Run[8][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+c1c6d48441571616117999ef40396659c878212dbca0cb425d57da2d237634b7
+-----------------------
+Total Time:  0.7300260066986084
+-----------------------
+Run[9][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+2c2aba7519757282cfa38f11968bf66d04f4f230deaf55e881cd3f3925e4156d
+-----------------------
+Total Time:  0.6595370769500732
+-----------------------
+Run[10][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+60072d1e3d53e1671d687d301e201917f8221a0b2a0b147c0086704cd59df82f
+-----------------------
+Total Time:  0.8312444686889648
+-----------------------
+Run[11][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+f0857a414f18e34861a2b05c9a1e0e0e880ca2739bf97532a71d2b509ee5ec1d
+-----------------------
+Total Time:  0.6064355373382568
+-----------------------
+Run[12][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+18fee5cc5c26b25b32375a09d7684cbd0171b3b90c52f17a6c90358e3d32f641
+-----------------------
+Total Time:  0.6142995357513428
+-----------------------
+Run[13][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+b3258fdcaa252fd802483c5e84f8028fa22c5354e7398698b4a04b364d7ca8b0
+-----------------------
+Total Time:  0.6767795085906982
+-----------------------
+Run[14][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+9238fd63af66ec2be7784b49e84352e381575e96daaa5764d8887afa38f35d67
+-----------------------
+Total Time:  0.7990479469299316
+-----------------------
+Run[15][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+f730b5784e13247998332f3ce7aea54565c75ce9a59e4214ff7c4e3b82c11f38
+-----------------------
+Total Time:  0.777350664138794
+-----------------------
+Run[16][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+dba1e1b4593a76106640baf89269092e59c368cee621b058a9a88974ec99f1a2
+-----------------------
+Total Time:  1.322345495223999
+-----------------------
+Run[17][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+3bfd59e4a6b4c36e71ffde2cc36d719fc54756c72ee445e10623ab82c49958e9
+-----------------------
+Total Time:  0.681382417678833
+-----------------------
+Run[18][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+15bae9bfe752a2b803173659ab81a12251c1936c97ba37e6e6b2619f66f92294
+-----------------------
+Total Time:  0.6828927993774414
+-----------------------
+Run[19][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+69c5b9b1561bfdd797ccbf7b14daf1d21f671d6acd2dc30c785be926df46d08b
+-----------------------
+Total Time:  0.7193212509155273
+-----------------------
+Run[20][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+8dfea5c3d7c6e2ea8e7564c07751fa9e2b9033fb6ffac011b91fe220fd4258e8
+-----------------------
+Total Time:  1.3155815601348877
+-----------------------
+Run[21][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+65e6ae76f8238b913c547dea89dd10faea1da612191781e2982fac6bded0a0c6
+-----------------------
+Total Time:  0.66621994972229
+-----------------------
+Run[22][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+930c0bb1d0e88b5d566fd2ca5a40a0ca83ead1100533a6895fe110bbb0acb4e1
+-----------------------
+Total Time:  0.8119640350341797
+-----------------------
+Run[23][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+42441b607b96e20914a4174f59aabf6cd8c5c4cb71ef7a66b44ea97c57d6aff7
+-----------------------
+Total Time:  0.7805013656616211
+-----------------------
+Run[24][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+45137e9004051c396c4e233344be05701e793d57d0bbd9069393514483a0c4e3
+-----------------------
+Total Time:  0.7376294136047363
+-----------------------
+Run[25][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+7e478604235d8d3bb0dbb32e3d740f9b5d6e72568d9b5b17971b60cbc8223968
+-----------------------
+Total Time:  0.7709925174713135
+-----------------------
+Run[26][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+81fa0f6909e8798b95799ec4ca5fb94618d99269d1dbd763dc444c7bcb1ab8b5
+-----------------------
+Total Time:  0.6922485828399658
+-----------------------
+Run[27][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+f679d727e2ca31d289a03be8f741a74c298122b835d6f77d2a75718645947798
+-----------------------
+Total Time:  0.9324996471405029
+-----------------------
+Run[28][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+e3d6aec70ef1ca3f011e2215c797bb0cb207cf96e5f8fa4dcd56a535b750dc3e
+-----------------------
+Total Time:  0.6257810592651367
+-----------------------
+Run[29][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+b720a495bdee2ce8a226fd197be5eb311476e1046c1024e40e61a260e7350901
+-----------------------
+Total Time:  0.7439355850219727
+-----------------------
+Run[30][duplicate][10%]:
+duplicate_10_client.sh
+duplicate_10_server.sh
+607e1a6dd29c86d2c74556e04fb4989499650d09697a38db9c8fc3e8ce769e04
+-----------------------
+Total Time:  1.5187091827392578
+-----------------------
+Run[1][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+8e101fd85cacfa43df9473eef54899be01600ec59d461bdeed9c1ce79e877187
+-----------------------
+Total Time:  0.6461942195892334
+-----------------------
+Run[2][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+01646f3d6f7b7f9efa932a5c626448fbf6aea1ad9c2764f9afe029276d751c17
+-----------------------
+Total Time:  0.6170790195465088
+-----------------------
+Run[3][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+8523118eea145df1a52e181f65db8a0bd5fc7f57c7ee081643638db6a56ea0dc
+-----------------------
+Total Time:  0.6766610145568848
+-----------------------
+Run[4][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+805fd009cc59f78e663f73415975bd723ff848bdbb1261d007a3836d9ca88663
+-----------------------
+Total Time:  0.7698397636413574
+-----------------------
+Run[5][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+c22fe1c84c549b0cd34b8719e073da854268c79cdc5ae17c0a8c9159ad4ba697
+-----------------------
+Total Time:  0.6875395774841309
+-----------------------
+Run[6][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+f66de02ce351c53cad4197392c7d3f938f190305c259f81f67824d6ebd2e7525
+-----------------------
+Total Time:  0.6285402774810791
+-----------------------
+Run[7][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+c9ead811cf9bd0761e573cc7646301231b00b70b76383409d451c404949d47e7
+-----------------------
+Total Time:  0.5959880352020264
+-----------------------
+Run[8][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+ecbdf53ae160dd63476545b7b607ee12de18c3547beb741440f17849d3b5508c
+-----------------------
+Total Time:  1.3074402809143066
+-----------------------
+Run[9][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+3bfec63c3ed34e559da9af581a85aeae8ab7ddb08b8463f5dea0eafa3a350e20
+-----------------------
+Total Time:  0.7479071617126465
+-----------------------
+Run[10][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+9e4d14cfa62bee0e940327fc4897308a8fc047f74319f7ce3c7980f778dd1063
+-----------------------
+Total Time:  0.5011889934539795
+-----------------------
+Run[11][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+3500073bba7528d5ce2a4ac548a6906cbb35b8b3f469b3562b06d06e0053bc71
+-----------------------
+Total Time:  0.676814079284668
+-----------------------
+Run[12][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+75e66e601b72fb12e45599f2e9c1c9efca8d5f57f0f8db76ed3e4bcfb35c1665
+-----------------------
+Total Time:  0.6624376773834229
+-----------------------
+Run[13][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+8e5d4795d908c8db900f794bce01fb9b34b460504fa2a040f272abbe4c9ff18f
+-----------------------
+Total Time:  0.5662713050842285
+-----------------------
+Run[14][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+6a8b3fac81276ecc09fcc7980dc3aab4e8e55a3822e843a43176913928a555cc
+-----------------------
+Total Time:  0.6456875801086426
+-----------------------
+Run[15][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+521ab1a611bee67f187aa57a09b9a7a1ee7221ed39bb14cc36cfd7e97e339594
+-----------------------
+Total Time:  0.6087563037872314
+-----------------------
+Run[16][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+02c4c3eab923c6bb2d11c825ae6d187e34b32fd86f63059356bfaba4d2f38dca
+-----------------------
+Total Time:  0.711876630783081
+-----------------------
+Run[17][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+16aa5bf71ec076d1a89c3bc5ca3c5cb229fdec3f2739a183f48d46a40961582b
+-----------------------
+Total Time:  0.6244361400604248
+-----------------------
+Run[18][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+a1461f6ee57f234513eaf39de020ef05a36260367247b4081cc89adaca2c3ad5
+-----------------------
+Total Time:  0.734203577041626
+-----------------------
+Run[19][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+ede04bb3e173812a5af72186d64537ec537a74098c4062bb4260b57d21e10740
+-----------------------
+Total Time:  0.5747334957122803
+-----------------------
+Run[20][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+1ec58654024ec4cb0e38f969ff2631cd243c5a80b5e759c5d4c2d28be8c40074
+-----------------------
+Total Time:  0.7387456893920898
+-----------------------
+Run[21][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+b3e922ca8461278450a25b096934245d11186b2c7311775cf6b592c185725a5b
+-----------------------
+Total Time:  0.6567285060882568
+-----------------------
+Run[22][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+824b8b55658a5f2aa8e12a1a5cea45c281cfb92847c874ef5851b767d719cf63
+-----------------------
+Total Time:  0.5050625801086426
+-----------------------
+Run[23][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+68dc1104658099e23535bf3cfb337b5327630975e082199a9454831c70508554
+-----------------------
+Total Time:  0.7614798545837402
+-----------------------
+Run[24][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+8e0e1ca5deec1a1dc7cf3b831bf5cac544d667a402df64d47fb021515acdb67e
+-----------------------
+Total Time:  0.6167342662811279
+-----------------------
+Run[25][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+311a569a2d3bf7d81a0277d41333f1406c2c7d6d6d1bcbb374aa68bf997ca387
+-----------------------
+Total Time:  0.7002272605895996
+-----------------------
+Run[26][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+9d67b330317775cd16c53b2497248f426996129dda2c605081b9afce4f941df1
+-----------------------
+Total Time:  0.6760444641113281
+-----------------------
+Run[27][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+0c561420c11af1fb87eae53eb4d510cac87fa0845834f015b1c38e7a36938236
+-----------------------
+Total Time:  0.6593379974365234
+-----------------------
+Run[28][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+f2b586bd6915b960858e41aa496560796a2af1793aa0914d7c36f214348a9d40
+-----------------------
+Total Time:  0.7767915725708008
+-----------------------
+Run[29][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+b3ee8b104ad50e690caf69a93f984790e2d7b030d5c0cda049b37d3a84174101
+-----------------------
+Total Time:  1.3156569004058838
+-----------------------
+Run[30][duplicate][5%]:
+duplicate_5_client.sh
+duplicate_5_server.sh
+b6673da86bec30361dd456071705384063f0a67fe7229e4c5fec40f1237a943a
+-----------------------
+Total Time:  0.6033720970153809
+-----------------------
+Run[1][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+8b9f5c9011a4bd16e184049fefb31d4d092b9383ee49bd3f35b67117a1e8bb33
+-----------------------
+Total Time:  0.6718099117279053
+-----------------------
+Run[2][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+59f7af0ffab4e085d8d8e49fbfcc89efbcf1bee1aa5dc287ea711cecd031bcd7
+-----------------------
+Total Time:  0.5771050453186035
+-----------------------
+Run[3][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+34c9364128bb81d2e09bf736ee2099aaee259571ab35632c09e52e3e7a1d343d
+-----------------------
+Total Time:  0.4911954402923584
+-----------------------
+Run[4][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+4c31936f926e4b13ba7621a9420c8f54ab490adbf1dd3bbcafb31e430e8d2de6
+-----------------------
+Total Time:  1.3049380779266357
+-----------------------
+Run[5][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+733b963b2b49df52998ae4c71b093e52660d992b2f7305c374171901c38cc851
+-----------------------
+Total Time:  0.6362917423248291
+-----------------------
+Run[6][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+13fd5a2588283f9b3e4dfab602aa3474a363e1f08f053079a7fdc53e981ed88d
+-----------------------
+Total Time:  1.3077843189239502
+-----------------------
+Run[7][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+563a7ce448986855187b9502d43223180b88de8eacb70cc4c9da4acc964cbf19
+-----------------------
+Total Time:  0.8324151039123535
+-----------------------
+Run[8][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+bd8ef1d86a41831dbfe09e3686886ec5e41a3a5089fcb8b1acd05400588e6633
+-----------------------
+Total Time:  0.505183219909668
+-----------------------
+Run[9][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+af02592d43e53102e43ee5c889fc41b6bde3bf536fac814425bc332b1caa899d
+-----------------------
+Total Time:  0.6893317699432373
+-----------------------
+Run[10][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+ba5f3fb575b5ff37c3ed622eddf81f8b1e828748b0704322b10cdc84c8061133
+-----------------------
+Total Time:  0.6072142124176025
+-----------------------
+Run[11][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+67b838831062aa90e48be2be003e28b82f8d924b48bb4e201a935c2bf65b0f1c
+-----------------------
+Total Time:  0.607170581817627
+-----------------------
+Run[12][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+cd786208102d2997ade31dfa2c3a8deb466b95e40cf919b5fe0de961d0fd886e
+-----------------------
+Total Time:  0.586205244064331
+-----------------------
+Run[13][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+e5e7c0fbfd50a77883cee46e9cc5a21042422d4d49574937b2478393bd1f9fea
+-----------------------
+Total Time:  0.600283145904541
+-----------------------
+Run[14][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+80820be58331b3cd224df5561f7bd4853aa222bcb74d09d763346410f1027a65
+-----------------------
+Total Time:  0.640967607498169
+-----------------------
+Run[15][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+a99f3065dbde8e543840a351451c8efff0c7508357fafdb10b569ce3698cf2cb
+-----------------------
+Total Time:  0.48093700408935547
+-----------------------
+Run[16][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+aff6a134581bddbdd756b8e7e691be40925243bd097734f605faa84ed36eaffd
+-----------------------
+Total Time:  0.6284453868865967
+-----------------------
+Run[17][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+079e8cc3701e4d4d11c560c570229934b0b8971a629e472ce891e4db7dd2d7d6
+-----------------------
+Total Time:  0.6569952964782715
+-----------------------
+Run[18][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+01a2f8a8e96a945ace5aaf1600e092e1a8911fb008bde3136d25bd26db4d2e2f
+-----------------------
+Total Time:  0.5918838977813721
+-----------------------
+Run[19][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+46fec1a2424d2bbbb11986c120916a207cd22bd6077a80ab4d6ed89ae69a9bc3
+-----------------------
+Total Time:  0.6433107852935791
+-----------------------
+Run[20][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+0a90c1a4ac5c339263067c37a0fdf2794eec416111c0c7124a6e9072fda1944c
+-----------------------
+Total Time:  0.661827802658081
+-----------------------
+Run[21][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+fe0845b25f92ce89d7b82dd8bb64cdc152bad09a0ceb91d1ae89f7c993274d27
+-----------------------
+Total Time:  0.6138393878936768
+-----------------------
+Run[22][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+c956aa66cc7ff2b3738a56d191a6e16f2dfa97b82f00f38bf38acc6d5d871688
+-----------------------
+Total Time:  0.6433291435241699
+-----------------------
+Run[23][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+aa41abd464e651c8b2fe6653ab0372dbba0ca499d8a6e708eb0e90498fc29c73
+-----------------------
+Total Time:  0.5964913368225098
+-----------------------
+Run[24][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+07cce9648b062386f4c5e439cff9d3fded5b5a7c265d7d3e02f4eb92c73606b2
+-----------------------
+Total Time:  0.738994836807251
+-----------------------
+Run[25][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+4054c7638ef41540e838796803f6d0663ea71e0b1e02f3fadc9ed8d9ddc54c7b
+-----------------------
+Total Time:  0.8321399688720703
+-----------------------
+Run[26][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+7ed3abb47ee2082943d3e876e9e4ac646691b582a9236f3ac9105f51cc2eb664
+-----------------------
+Total Time:  0.6530001163482666
+-----------------------
+Run[27][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+8958a47506997f4b5588773cdacac09c0b9bcbd3a120a311eb4797973dfb373b
+-----------------------
+Total Time:  1.304549217224121
+-----------------------
+Run[28][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+c9c7a341cd261bbed8ff9b23ecd6e7e491f66691dc4ecb8bff0dfb028d47354d
+-----------------------
+Total Time:  0.5046610832214355
+-----------------------
+Run[29][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+d0f90d088679e68302d863241e4c279b51bc32b9edae5a9751f8ec7190adc5f1
+-----------------------
+Total Time:  0.5692403316497803
+-----------------------
+Run[30][loss][0%]:
+loss_0_client.sh
+loss_0_server.sh
+d5000ccb0d47347ed291eba1ee46f4b80ca4d04efc5c8d95640016962f93988e
+-----------------------
+Total Time:  0.6977479457855225
+-----------------------
+Run[1][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+a0fbdf3fd2b02ff270087ae89a1af392029b22f99d9717defe9e584a8b50ce8b
+-----------------------
+Total Time:  0.8998045921325684
+-----------------------
+Run[2][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+282b262a99f867f47f8f56d385a37f1f973f8e40e18b91dc77bdaebf4294c24e
+-----------------------
+Total Time:  0.8558640480041504
+-----------------------
+Run[3][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+034577a6e6c2b8330a3fc132a21747652473fae54033ce89ce602c4743345d94
+-----------------------
+Total Time:  1.701862096786499
+-----------------------
+Run[4][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+8e07b1f60dd4d96839a4394726be23dd87e12762527464f79fd3275ba6c1b633
+-----------------------
+Total Time:  0.9193007946014404
+-----------------------
+Run[5][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+1cb26322d50beb1269bb56839fea575af58d591d50c9ae9f8f21d2c66bdd1f21
+-----------------------
+Total Time:  1.7407426834106445
+-----------------------
+Run[6][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+bc4db78ecec196f25ae565cb2c96c2b2e3c38c7514cc6c892c2a5e58dc554966
+-----------------------
+Total Time:  0.7917122840881348
+-----------------------
+Run[7][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+6e329e25209366b7a541a75971f0a8d152ec86db77e99cbd7a2037a90438d65f
+-----------------------
+Total Time:  0.9346668720245361
+-----------------------
+Run[8][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+2573d6c7b02e689d58c7db2eea0ac873e0610bfde2cb4689df0e81e530d33d23
+-----------------------
+Total Time:  1.198237419128418
+-----------------------
+Run[9][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+437a8849b87538b2e59488f4ac89129f941b00ecfb5603ffcfe7b5349c89b03a
+-----------------------
+Total Time:  0.7797820568084717
+-----------------------
+Run[10][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+9b8c50a29f3b468053e323c08f211cd4e995b8b39b3ed786d24a3ed012ed1f90
+-----------------------
+Total Time:  1.108057975769043
+-----------------------
+Run[11][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+340714fa52da6cdf72b322c97680aeebc51b7d87860e50990016b87eb13a04eb
+-----------------------
+Total Time:  0.8204295635223389
+-----------------------
+Run[12][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+b5970c3514bffefdbfd2cdf57d644954b11e9b104dc44b44e57e74b856b2766d
+-----------------------
+Total Time:  1.7519810199737549
+-----------------------
+Run[13][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+1688757cc57ac0b198057e95e566893efe0e5ca87528bf65116d2edf5f67e67e
+-----------------------
+Total Time:  2.3151378631591797
+-----------------------
+Run[14][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+6e62f127d3fb11650349c884fd62684db73f4bc441466f391f3a1ba97405d011
+-----------------------
+Total Time:  2.483751058578491
+-----------------------
+Run[15][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+39dff6a3b17193dd46af0e675a7250f04c8f25a26d24361a7a546b7efcd57124
+-----------------------
+Total Time:  0.8568346500396729
+-----------------------
+Run[16][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+04a2693e1ccd77fd837cad3752322b9172071993abcf6fe720651e20bb1d3f31
+-----------------------
+Total Time:  0.7190825939178467
+-----------------------
+Run[17][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+1cff10fe187e1369b0026bcd3e58c4a1aae38a16c4eeb1978209076ffb05ece9
+-----------------------
+Total Time:  1.0503730773925781
+-----------------------
+Run[18][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+4d7155f5a3bbaf530e0a5d18d5c2ffcdf2b42ccc526a443845816a5ef0baa7b9
+-----------------------
+Total Time:  0.8079490661621094
+-----------------------
+Run[19][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+a4ec03235e80f8f1c577a72ff0c3f4d3a13082101bf5705820fad12b9fdaa810
+-----------------------
+Total Time:  1.688408374786377
+-----------------------
+Run[20][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+2b0b0b187ca854482bbc470e841acfef7cb4b79f0f4c07ecf4c8e7f71d58a78c
+-----------------------
+Total Time:  0.9700500965118408
+-----------------------
+Run[21][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+de52f5ad427d84f3233a1afde6a42c65f7ecdf060f87d7344076f1b4800db6f0
+-----------------------
+Total Time:  0.8310723304748535
+-----------------------
+Run[22][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+25165f302eaa225f8560ce7fc9200a473bea7d5ee112fb80d41260c0f4670fb6
+-----------------------
+Total Time:  0.8317608833312988
+-----------------------
+Run[23][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+2c28251280befd4ecedc3990468e81dd3143bc45e79fcc1d473e5abd5f231950
+-----------------------
+Total Time:  0.907278299331665
+-----------------------
+Run[24][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+c6f3d11d21f2bda532c010ef8783081614a6e61de01a7f0f79a6526729510201
+-----------------------
+Total Time:  1.3292005062103271
+-----------------------
+Run[25][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+74c45f41a257cb379f0e6322348928f42ada5b4486deb19754c095702c974587
+-----------------------
+Total Time:  2.4593067169189453
+-----------------------
+Run[26][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+e19caf1058e30ecbf753f4435f32fa2b051ee6f78330ceaaf544b2c3a5588034
+-----------------------
+Total Time:  2.2559826374053955
+-----------------------
+Run[27][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+cdb5a3ceb74835a5221871d908d76ac40238fcea82be18b2e44484af616cd048
+-----------------------
+Total Time:  0.9006285667419434
+-----------------------
+Run[28][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+14f5323e9216345e6ecd7ac2dc2a8a8c33bf0447ad4f50d310f20019032133c2
+-----------------------
+Total Time:  1.7350542545318604
+-----------------------
+Run[29][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+ada0d3f3598344d94aaf690daa7024ce8ec3c4761ede4a181530a1743b7edfac
+-----------------------
+Total Time:  0.8105945587158203
+-----------------------
+Run[30][loss][10%]:
+loss_10_client.sh
+loss_10_server.sh
+00b22067c9c30c165d2cedb8280aab01c87eb40e4c5c568c925c312be433b780
+-----------------------
+Total Time:  0.9867904186248779
+-----------------------
+Run[1][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+bd37f95e4b09016ef9051c63ec24ced4f082c585583521a9799c3f9cecfc6dfd
+-----------------------
+Total Time:  0.8785533905029297
+-----------------------
+Run[2][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+d55386bbfa23659b62f0b2c62dccc353f66dce9f06d4e05cab88ccf8c2275427
+-----------------------
+Total Time:  0.9318912029266357
+-----------------------
+Run[3][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+31337f2b36530fe369207cf6c51056270754bfdc22c3a799d3d95a3549f43930
+-----------------------
+Total Time:  2.374871015548706
+-----------------------
+Run[4][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+fb6a29ecfe8310e85e1e591d22fa914771c777f1f82e9682f9c56c587f826f0a
+-----------------------
+Total Time:  2.379194974899292
+-----------------------
+Run[5][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+4e2f1a7d0061c997d30dff312996b62c47995c10af7fb5e6522b9808b7f90b22
+-----------------------
+Total Time:  2.073110580444336
+-----------------------
+Run[6][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+9620fc4b45a2f7982f53f0aebba51914010e665b6dedc86060fa41ef44777b63
+-----------------------
+Total Time:  0.7910635471343994
+-----------------------
+Run[7][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+6fdfe0cddb67022494c670c0c01cc06a5c4ea056baea134b1e0cda38336ad37d
+-----------------------
+Total Time:  1.9162330627441406
+-----------------------
+Run[8][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+9ab1011cf9ff19bc49c2668c183556b8e840cf8caec9a288830bdd55d52839ff
+-----------------------
+Total Time:  0.8514857292175293
+-----------------------
+Run[9][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+0c8b15f1f5a038de42af7604965ad42a8ebd266ba666d6897335389bc6f26c40
+-----------------------
+Total Time:  1.04585599899292
+-----------------------
+Run[10][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+ad90ca14800e26b71d1c1871da1ef34dc63ec93d3c5cb2952cd60760a14a0f11
+-----------------------
+Total Time:  2.420367956161499
+-----------------------
+Run[11][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+b95ef325943500cae126aa3e82db3e84957cc3a87528a80ef4d9225a4db215c5
+-----------------------
+Total Time:  0.920032262802124
+-----------------------
+Run[12][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+e795419729309a81518dec321c9e026d731dd8f85e486624be53f37ec817024b
+-----------------------
+Total Time:  0.8105552196502686
+-----------------------
+Run[13][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+d06a7d8689ded3538cf1d9e9c689b4d46717d333a07369f6287784a4c74c0b3c
+-----------------------
+Total Time:  0.8249456882476807
+-----------------------
+Run[14][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+cf61f6158de2d3aa83e64387f1e6b2c18b29c7fb2eb4c2fd1a1609969df77500
+-----------------------
+Total Time:  0.8401241302490234
+-----------------------
+Run[15][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+8d3a7535a4e532ea188b05058c6cea265e79a1e02cbe871ec6390efffe508eda
+-----------------------
+Total Time:  0.9183876514434814
+-----------------------
+Run[16][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+69e9eeb37f05cffe28bc56f5c7bf461a89f11f107cd8f7655298f8a61326ccb7
+-----------------------
+Total Time:  0.7972464561462402
+-----------------------
+Run[17][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+10c97c5c0d9da679562c30ad2c1b72c7dadb60826e305fc835f2a15f3eb8f77a
+-----------------------
+Total Time:  0.8874907493591309
+-----------------------
+Run[18][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+9d73f193a168d749f8f841707a3a620af44f51314b038437b77c661627686cac
+-----------------------
+Total Time:  1.0312988758087158
+-----------------------
+Run[19][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+b2d8800369ffad7a41a69dc6e7b6e069e742ae513dccddedff76586390a38a6f
+-----------------------
+Total Time:  4.094470739364624
+-----------------------
+Run[20][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+9b69a5124f677134567a617a8fdcc4e512e8fbf7e0e11876a8403fb044125675
+-----------------------
+Total Time:  1.0613527297973633
+-----------------------
+Run[21][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+f154f7af276c824b7f75d9bbf3f68e62a4801744fdd72aef2f2ba9983e3e1966
+-----------------------
+Total Time:  1.0623352527618408
+-----------------------
+Run[22][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+7f26d7c0ee4b67f1f85143ca22864fc9b5b78736ae9881afaf66ec0b6bfb4b08
+-----------------------
+Total Time:  1.7565701007843018
+-----------------------
+Run[23][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+d27e5e7614fc816793c68eef89e3460d128ed9c43f89fb6aaa51b427caa50222
+-----------------------
+Total Time:  0.98421311378479
+-----------------------
+Run[24][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+53163b6089cde93ee73f453a7031d3eb511d679d6ca8e581b82ff2204937f158
+-----------------------
+Total Time:  1.9220755100250244
+-----------------------
+Run[25][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+e9f3c5a0af79bae2f8a19dd40d893e29bfe390427a5739791140c77d8414486c
+-----------------------
+Total Time:  1.032900094985962
+-----------------------
+Run[26][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+5cdbb760af497152eb04d1c02ff67186314580c3bd439c96c6bf4dfb7ff3598c
+-----------------------
+Total Time:  2.3961431980133057
+-----------------------
+Run[27][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+66b0b2c82e2e7415f5a609680924ed43be57dd5a8e87df4103eaa5bf807366d2
+-----------------------
+Total Time:  1.0227491855621338
+-----------------------
+Run[28][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+54b2f886851f84a0e624a5ccc4daedc1182bd132e41747fc6597a22aa5abe755
+-----------------------
+Total Time:  0.7954308986663818
+-----------------------
+Run[29][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+94a041fc2e5d24b6e694fc587fea2adcf24f49df38a2b7f24d635a7033457ec7
+-----------------------
+Total Time:  0.9611883163452148
+-----------------------
+Run[30][loss][15%]:
+loss_15_client.sh
+loss_15_server.sh
+ecfe50f625cc6bb4127673888c43be8696045f46f899ab05431665bb72548be6
+-----------------------
+Total Time:  0.9876220226287842
+-----------------------
+Run[1][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+99ef5904e8d511041dde9e5b3332d51fed308f9b190324196e491d4cd3e776d3
+-----------------------
+Total Time:  0.8378603458404541
+-----------------------
+Run[2][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+9054ff5b0b029892d2adda99d3c3891fa63d8900c23038aaaf43f9cc6ccaf90a
+-----------------------
+Total Time:  0.6927473545074463
+-----------------------
+Run[3][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+41bffe351cd65207c3be1032f5e1e0a16f598ddc1da7cdffa13119c65abad5e4
+-----------------------
+Total Time:  0.7089011669158936
+-----------------------
+Run[4][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+9441684442afab3063b7287945865bc3ba92c1b577d124955f88d20abab450f6
+-----------------------
+Total Time:  2.2464993000030518
+-----------------------
+Run[5][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+faaf1f9f275d3912f7d06417eee5f17e3b3262813fb6747a85dfa47aa5ae0ca1
+-----------------------
+Total Time:  0.7803854942321777
+-----------------------
+Run[6][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+3487a0e621db5da5dc7935e61d27b100c08cb6d54d4d3635e429b19c411e819d
+-----------------------
+Total Time:  1.5611443519592285
+-----------------------
+Run[7][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+c0d5e4674378d98980436eb747e00c8d4cf07c07544092e567b9b349a92de69c
+-----------------------
+Total Time:  0.9479227066040039
+-----------------------
+Run[8][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+e1ece003e9ff016b69fe487266236ec06a66a4ea3d4172516febd3d2a4bf9b46
+-----------------------
+Total Time:  0.7352313995361328
+-----------------------
+Run[9][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+fb3c8efd80f396b90efe393b47330aca83fdbbd3f73b070e09992da9dedc2361
+-----------------------
+Total Time:  0.7801699638366699
+-----------------------
+Run[10][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+7623efc413988247ffae88dbb43eb64ebd87e7296f4300fe15e4ee3cf6a3deb8
+-----------------------
+Total Time:  0.810978889465332
+-----------------------
+Run[11][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+496f2ea263a03347c29c2fd4e9310d9c978f1b932d0462cd962c2014922f42e4
+-----------------------
+Total Time:  0.8480026721954346
+-----------------------
+Run[12][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+3bc01a546f80b526486c21ada9ab38d42f86d686c5af65df42190dfd47dcf5fd
+-----------------------
+Total Time:  0.8442695140838623
+-----------------------
+Run[13][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+338e27be462fa10aae95813a1e7b49ef8616869c1c06ff6490f2003aced0ff72
+-----------------------
+Total Time:  0.9747717380523682
+-----------------------
+Run[14][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+73d9d292aff19bd66a30c3625e7d05d3513ddb7965093f542bf9ca4c224000b2
+-----------------------
+Total Time:  0.8529527187347412
+-----------------------
+Run[15][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+1d38eab928de18e557a4b0ed55a93bade27507739fa91cb18c49fc612cc346ef
+-----------------------
+Total Time:  0.9115884304046631
+-----------------------
+Run[16][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+3ccb20e38dfb20d01087a96a86c209bca09918aee1066ff41d1e51ea950bc22d
+-----------------------
+Total Time:  0.822091817855835
+-----------------------
+Run[17][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+b8c67d3ac7ba999c0ad12d89a708439fab9a3c83e16ace48d9955c889585a11f
+-----------------------
+Total Time:  1.0440244674682617
+-----------------------
+Run[18][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+2f186b9de9cfe631142e4030618ea6bdb5ce72e085393ec6192349ac4fc386a1
+-----------------------
+Total Time:  1.6581192016601562
+-----------------------
+Run[19][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+2a8a8ebb08b13234d663ffe05c1f29e0f5ba1a0a6f06997dd00d5fe548c4d9b1
+-----------------------
+Total Time:  0.8827798366546631
+-----------------------
+Run[20][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+052f0a964d53533c77f8a03ea8b7552ba8f4d70254d9fef251c3d7034d673b21
+-----------------------
+Total Time:  0.8133513927459717
+-----------------------
+Run[21][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+ace82d707ad88e6b5807a58fc6e82898ff5c815f18f267d296e95172adddd407
+-----------------------
+Total Time:  0.8354892730712891
+-----------------------
+Run[22][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+82d29eeba0c1050d68777b4e9b8554febe8fcc996c8dcc8c3ffe2b4202558a71
+-----------------------
+Total Time:  0.8726527690887451
+-----------------------
+Run[23][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+f0f2182731d8fa736538aba86258804a43201354942fbc4be4740e862a7d5ed1
+-----------------------
+Total Time:  0.6796302795410156
+-----------------------
+Run[24][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+60e3448b3e3e9634d39ed40161877859874a8fdb62f4322dc8a92306d2bad90d
+-----------------------
+Total Time:  0.6845223903656006
+-----------------------
+Run[25][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+1c5c4d25bee2f98eca38f3b5c30f5c79fc22b3eecc5dfcfa169996391bbd9f73
+-----------------------
+Total Time:  0.8967254161834717
+-----------------------
+Run[26][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+76b8acd07aae0c6da95bd5aecab7acf1911bce494fdded6614dd486fc5bd6b8a
+-----------------------
+Total Time:  0.9139485359191895
+-----------------------
+Run[27][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+522a5daea9f1e68c67c21cec20af3124b01cb07fabdf1e2b0d4c5ab24fbb4c06
+-----------------------
+Total Time:  0.850639820098877
+-----------------------
+Run[28][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+5029643aa8daf61700f5e896484038db4440cb31c4810e03f8091a25212e1ade
+-----------------------
+Total Time:  1.7280876636505127
+-----------------------
+Run[29][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+b3e2650e803f569ced357c2d8dd57545d983759f4fd7cec8b5bd4423af975019
+-----------------------
+Total Time:  1.52364182472229
+-----------------------
+Run[30][loss][5%]:
+loss_5_client.sh
+loss_5_server.sh
+bb243c293707727ec164fc137b7a108177bcd5b91b89c435dc222412a1ef5e8f
+-----------------------
+Total Time:  0.7444343566894531
+-----------------------
+Run[1][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+d6cf9cdd3bfe0f10d5233e16a5a261b6aee16dc55e23980fe6ef7c74f6a48a21
+-----------------------
+Total Time:  5.8394739627838135
+-----------------------
+ceng435client
+Run[2][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+dfe607aacdfc1c8876bc2a8381f2100dfa95e939a89fcb7c1d0b23e73eeb092c
+-----------------------
+Total Time:  5.904362678527832
+-----------------------
+ceng435client
+Run[3][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+2554b37342889465fcb5082c3fed433a5e5eadf8d5c8668f514e6e9985cbab6a
+-----------------------
+Total Time:  5.938756704330444
+-----------------------
+ceng435client
+Run[4][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+aafc4dd13df023bdfbd935a8f7dc6997945998dfc00612b734940ccd75f9353e
+-----------------------
+Total Time:  7.0228753089904785
+-----------------------
+ceng435client
+Run[5][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+9577177bc8b2e914684ef1b13e912fe1c7b719202222cd45dcf3320f4b281914
+-----------------------
+Total Time:  5.404821395874023
+-----------------------
+ceng435client
+Run[6][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+256dd28c220056403a28f398e4099d02af5cf13b7d723332154e0893bd48174c
+-----------------------
+Total Time:  5.229925632476807
+-----------------------
+ceng435client
+Run[7][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+8b0479d73d78e3276fa6889bb7af11ac60ede04157a1e1fda31783f7d0950593
+-----------------------
+Total Time:  5.21546745300293
+-----------------------
+ceng435client
+Run[8][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+10c6560cbffa154c4865de2fad2fdc4d349ce6e1cfda26e46bb46d9de5f77ab4
+-----------------------
+Total Time:  5.27644419670105
+-----------------------
+ceng435client
+Run[9][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+23d7116017b4fe181fe4917e48df68f20c1dc56df65404710373826b761381db
+-----------------------
+Total Time:  5.39212965965271
+-----------------------
+ceng435client
+Run[10][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+aa84a15dea0adfc967167547fa05e3b372973b73920d9a98ad3058e800ccbb58
+-----------------------
+Total Time:  5.8837502002716064
+-----------------------
+ceng435client
+Run[11][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+05a7feb20c3f503e45d763625e6c656b0c909a95692206e32ab00120cf094e57
+-----------------------
+Total Time:  5.135181903839111
+-----------------------
+ceng435client
+Run[12][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+2f69fcf4d21df3935308388609b800aa18e0cdca4c9723d7c91cb1c5e3a93142
+-----------------------
+Total Time:  6.088016510009766
+-----------------------
+ceng435client
+Run[13][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+34b03f747ecb43ec10d77ac03905b28448ed6a94c97a41c5ba3c5f73a6a1ab28
+-----------------------
+Total Time:  6.464321851730347
+-----------------------
+ceng435client
+Run[14][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+9b91aa87022a158cfb667b47f34dd4d1021d669697b789c704e67e31dfacb5b4
+-----------------------
+Total Time:  5.862447738647461
+-----------------------
+ceng435client
+Run[15][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+30adf52c8b5f4f2d9061f037fbe3f5853760dc30ad037780a2582c77d80ba653
+-----------------------
+Total Time:  5.880565404891968
+-----------------------
+ceng435client
+Run[16][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+2d3fcbf05d78d5c76a2b1c679459a2157f7b0576ee30503e131f871cb6396c48
+-----------------------
+Total Time:  5.344512701034546
+-----------------------
+ceng435client
+Run[17][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+33c516bc27c94417ec1b986e2e81f75f916999055826332f4c5d991d47a2af76
+-----------------------
+Total Time:  5.9098896980285645
+-----------------------
+ceng435client
+Run[18][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+eb6da174299cbffca8267f2a4f86cfb5b0facb6c90f98047e6ba52492baadc3b
+-----------------------
+Total Time:  5.3061463832855225
+-----------------------
+ceng435client
+Run[19][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+cad4009eea8661945806bc14c2588cb5cc1719d0c55c2ba443d672d2c567b0ec
+-----------------------
+Total Time:  5.844895124435425
+-----------------------
+ceng435client
+Run[20][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+5efa74568e1a63b66708273d4ebe2c400d32437142978301cb52e4f4751aa615
+-----------------------
+Total Time:  5.800500154495239
+-----------------------
+ceng435client
+Run[21][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+1d5214cac0d3c7c52292df4511d1a82ac040d45919641b8efda712d2cd5c6d95
+-----------------------
+Total Time:  5.351874828338623
+-----------------------
+ceng435client
+Run[22][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+c9ebdb472b0443c470bd18a6c5c71a5101b8371ecb1515b39fdc807bddb8242e
+-----------------------
+Total Time:  6.289728879928589
+-----------------------
+ceng435client
+Run[23][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+9a5f5138f3bf8143d9e44a1d0c432451fb16e71a9d1122014aea9b13e19bbe53
+-----------------------
+Total Time:  6.431822299957275
+-----------------------
+ceng435client
+Run[24][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+36080f082fc91df9f06df7459b47d82ae8c04202eb4b238e40a5b3685d9b7dc6
+-----------------------
+Total Time:  5.339134216308594
+-----------------------
+ceng435client
+Run[25][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+921a6aa01acf58a99c1e3b37a3f8565031e9d278ec9807f991fb81c9cf1f34ec
+-----------------------
+Total Time:  5.928197860717773
+-----------------------
+ceng435client
+Run[26][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+75abe9128c8052f60f1b08357677f920cf64563eef3e0be19ddf83561a6671e1
+-----------------------
+Total Time:  6.473673105239868
+-----------------------
+ceng435client
+Run[27][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+45d6fd051d77986263ade891be8fd6fdad7b4e65b2c8d9788621479daa84f51f
+-----------------------
+Total Time:  6.293691396713257
+-----------------------
+ceng435client
+Run[28][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+8effa6fe0291212b738ee51a757c7180b32dd5cb34deda3bf0156329ec5eec15
+-----------------------
+Total Time:  5.854773044586182
+-----------------------
+ceng435client
+Run[29][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+9bbbcfd2c9e89aef693cbfce4eb91b0edec0a81a8ca1eda91ca6ba3b692e3914
+-----------------------
+Total Time:  6.4557576179504395
+-----------------------
+ceng435client
+Run[30][normaldelay][100%]:
+normaldelay_100_client.sh
+normaldelay_100_server.sh
+4ed8be9416068bdaba042c7226b5f4beb9cc6a96c9222f8a6885c94ce7d958e8
+-----------------------
+Total Time:  5.409164905548096
+-----------------------
+ceng435client
+Run[1][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+04be72ad9586a4dd4a567ef346e943c940facd92e30c52625002528f9e1b23b0
+-----------------------
+Total Time:  5.0031819343566895
+-----------------------
+ceng435client
+Run[2][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+f37803956953ab51b1ab94187e75e59dfe45cdd5d9d49746345a1795e3aa873f
+-----------------------
+Total Time:  4.448370695114136
+-----------------------
+ceng435client
+Run[3][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+138ddc1c47ab019f87df43b911376740c45204bbd7652ee2edb6faa6a9f53986
+-----------------------
+Total Time:  4.495146989822388
+-----------------------
+ceng435client
+Run[4][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+663a5acf9883b6bc4a2bc932bdf71823edcb4f68b2173d156998b55fe542ddd0
+-----------------------
+Total Time:  4.422577857971191
+-----------------------
+ceng435client
+Run[5][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+52f9d349b0ce68aa602f26020761f39f7ae7b635a891ea47ff0fa970edf5d569
+-----------------------
+Total Time:  4.459619998931885
+-----------------------
+ceng435client
+Run[6][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+6ae8ec4acce458732559ad71821a2932ff1c7f29a2e45a67207a634bdfb8e93e
+-----------------------
+Total Time:  4.456757545471191
+-----------------------
+ceng435client
+Run[7][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+c132d8a500adec1412bb2cc467023f98f4f02e461f095f3f3b41daf37119f86a
+-----------------------
+Total Time:  4.46999716758728
+-----------------------
+ceng435client
+Run[8][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+0bd715a3e8b8a94e0958ec01a30f68b5cc12e227046bd49d58ef31d943daac1e
+-----------------------
+Total Time:  4.395073890686035
+-----------------------
+ceng435client
+Run[9][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+b65b4138ecec3f7436727eb6ac6bdc111cf9114604e921a7f8be94d1269de812
+-----------------------
+Total Time:  4.445364952087402
+-----------------------
+ceng435client
+Run[10][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+fb65e4d9c84e4310e469005b0a5bf570935f8878bde15b205d8b475a41cb9208
+-----------------------
+Total Time:  4.404610872268677
+-----------------------
+ceng435client
+Run[11][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+33f6678478b0765e2f3ce51e670e225f3d7bf361952080d4dafde95ef07e277d
+-----------------------
+Total Time:  4.43140435218811
+-----------------------
+ceng435client
+Run[12][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+c653d2141229635f351123ca09bdd3235173ceac4bd8cb98a0a5742c03b5dbb4
+-----------------------
+Total Time:  4.422737121582031
+-----------------------
+ceng435client
+Run[13][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+d43f1e26f04fc5e734e2ccd52dbc0c55974e9ab60597a0c1d58a38bc55b1b7b4
+-----------------------
+Total Time:  4.424724340438843
+-----------------------
+ceng435client
+Run[14][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+9a9f38abae42c8d29f128e9be1e0fe1ccdbb95ca3128d431ae69fadb5c69c91a
+-----------------------
+Total Time:  4.437244176864624
+-----------------------
+ceng435client
+Run[15][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+580d8969b831682d2aa7b2c071899547ad525aaddbb53936466adb7c1561a877
+-----------------------
+Total Time:  4.451140403747559
+-----------------------
+ceng435client
+Run[16][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+52a2e99a7014ee42bcaf3c914c43b40355dc3e7948054582ec268b853dc6f4dc
+-----------------------
+Total Time:  4.433667421340942
+-----------------------
+ceng435client
+Run[17][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+c923740262847ce3e76f8ba5b34febf22d0225b22ec6af3d461aa640e7816935
+-----------------------
+Total Time:  4.432971954345703
+-----------------------
+ceng435client
+Run[18][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+d5280c3826d4a00b0c9f708edb0cd09c5d7b8f83cf8c217e78e17a554329a9bc
+-----------------------
+Total Time:  4.411516189575195
+-----------------------
+ceng435client
+Run[19][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+501d684b6323297eca6fa92ec10c4f1b5945b4e5cd4d1a22ed60351a05dcf7b3
+-----------------------
+Total Time:  4.402377605438232
+-----------------------
+ceng435client
+Run[20][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+e641e16992f3ba8385a883ef3fcc3e00868cee6236cadfcd1effc3c37be693b4
+-----------------------
+Total Time:  4.434199094772339
+-----------------------
+ceng435client
+Run[21][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+c0d91a3f7d8cdf12a6e372bbce5959edf0fac590c6997b94043a329bee900a18
+-----------------------
+Total Time:  4.402905702590942
+-----------------------
+ceng435client
+Run[22][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+7cfa23ad301a8142e66e3c77da38502d4ec60a8f59366648c220fd3dc2c8f157
+-----------------------
+Total Time:  4.418500900268555
+-----------------------
+ceng435client
+Run[23][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+a3f32fc09af9e65bd1add44deec03406684255dfa10193699a2bead7b0fe7120
+-----------------------
+Total Time:  4.442131757736206
+-----------------------
+ceng435client
+Run[24][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+e0a2e393c1ba4653d68e2401bdafed051f0a485baac14989a79a353e4d616dda
+-----------------------
+Total Time:  4.435741662979126
+-----------------------
+ceng435client
+Run[25][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+c3e811e5e340654ebbece2b52750f1ec10ae1de1c0132f58fc7a1e29825741f3
+-----------------------
+Total Time:  4.424323797225952
+-----------------------
+ceng435client
+Run[26][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+7ac1ebdf178fc337fed086d82b8861d2d5cff90993ec7204100d6235ded18d6c
+-----------------------
+Total Time:  4.937160015106201
+-----------------------
+ceng435client
+Run[27][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+855278f6b336ea867403f82988f6a62756af826b10d42c6d8f495a7d4f02b831
+-----------------------
+Total Time:  4.427750587463379
+-----------------------
+ceng435client
+Run[28][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+afb6b657e2334ac56278547f258c6a4e7c8a27e185726788c134fbe32a0eea96
+-----------------------
+Total Time:  4.881272077560425
+-----------------------
+ceng435client
+Run[29][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+d930cb4ee59bfbc165cce5b4239ae3def8f01ca43fa316e130f5e53e292c923d
+-----------------------
+Total Time:  4.4272141456604
+-----------------------
+ceng435client
+Run[30][uniformdelay][100%]:
+uniformdelay_100_client.sh
+uniformdelay_100_server.sh
+ecc7ec28e220e73aee2d7f83a9b6039222204341397d40fa14406117585fa4d2
+-----------------------
+Total Time:  4.42446231842041
+-----------------------
+ceng435client

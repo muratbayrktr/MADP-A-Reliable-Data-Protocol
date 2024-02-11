@@ -164,6 +164,6 @@ def handle_acknowledgment(ack_number):
 - **Optimized Packet Management**: Research into packet management strategies for different data types.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
 
 For more information and contributions, please refer to the [GitHub repository](<https://github.com/muratbayrktr/MADP-A-Reliable-Data-Protocol>).

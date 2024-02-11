@@ -41,7 +41,7 @@ To test the protocol under various network conditions, use the provided `tester.
 ## Performance Comparison
 MADP significantly outperforms TCP in environments with packet loss and corruption, maintaining higher throughput and lower latency. Below are placeholders for plots showcasing this performance advantage:
 
-- **Comparisons**: `![Comparisons](./output.png)`
+- **Comparisons**: ![Comparisons](./output.png)
 
 ## Results
 
